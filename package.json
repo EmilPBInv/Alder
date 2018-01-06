@@ -1,0 +1,13 @@
+{
+  "name": "dirdean_main",
+  "version": "1.0.0",
+  "description": "This is the JS Version of the DirdeanBot, multi-purpose assistant.",
+  "main": "Main.js",
+  "author": "Emil Barranco",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0"
+  }
+  
+}
